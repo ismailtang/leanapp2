@@ -1,0 +1,8 @@
+<resources>
+    <!-- ENGLISH -->
+    <string name="app_name">Lean App</string>
+    <string name="baseurl">https://luopy.xyz/api/</string>
+
+
+</resources>
+
